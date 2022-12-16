@@ -1,0 +1,23 @@
+ 
+<ShoeStore>
+	<men>
+		<sport>
+			<sneakers color = "black" size = "45">Adidas</sneakers>
+			<sneakers color = "white" size = "41">Puma</sneakers>
+		</sport>
+		<classic>
+			<shoes color = "brown">Bugatti</shoes>
+		</classic>
+	</men>
+	<women>
+		<heel>
+			<sandals color = "black" size = "37">Pinko</sandals>
+			<shoe material = "suede">Guess</shoe>
+		</heel>
+		<flat>
+			<sandals color = "red">DKNY</sandals>
+		</flat>
+	</women>
+	<children/>
+	<accessories/>
+</ShoeStore>
